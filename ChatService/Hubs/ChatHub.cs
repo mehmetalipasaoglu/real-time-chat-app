@@ -1,58 +1,74 @@
-using ChatService.Models;
 using Microsoft.AspNetCore.SignalR;
-using System.Collections.Concurrent;
 using System.Threading.Tasks;
+using ChatService.Models;
 using ChatService.DataService;
+using System;
+using System.Collections.Concurrent;
 
 namespace ChatService.Hubs
 {
     public class ChatHub : Hub
     {
-        private readonly SharedDb _shared;
+        private readonly MongoDbService _mongoDbService;
+        private static readonly ConcurrentDictionary<string,string> OnlineUsers = new();
 
-        public ChatHub(SharedDb shared)
+        public ChatHub(MongoDbService mongoDbService)
         {
-            _shared = shared;
+            _mongoDbService = mongoDbService;
         }
 
-        public async Task JoinChat(UserConnection conn)
+        public override async Task OnConnectedAsync()
         {
-            await Clients.All.SendAsync("JoinSpecificChatRoom", "admin", $"{conn.Username} has joined the chat");
+            await base.OnConnectedAsync();
+        }
+        public override async Task OnDisconnectedAsync(Exception? exception)
+        {
+            _mongoDbService.Connections.TryRemove(Context.ConnectionId, out _);
+            OnlineUsers.TryRemove(Context.ConnectionId, out _);
+            await Clients.All.SendAsync("UpdateUserList", OnlineUsers.Values);
+            await base.OnDisconnectedAsync(exception);
         }
 
-        public async Task JoinSpecificChatRoom(UserConnection conn)
+        public async Task JoinSpecificChatRoom(UserConnection userConnection)
         {
-            await Groups.AddToGroupAsync(Context.ConnectionId, conn.ChatRoom);
+            await Groups.AddToGroupAsync(Context.ConnectionId, userConnection.ChatRoom);
+            _mongoDbService.Connections[Context.ConnectionId] = userConnection;
+            OnlineUsers[Context.ConnectionId] = userConnection.Username;
 
-            _shared.Connections[Context.ConnectionId] = conn;
-
-            // Ensure the chat history dictionary has an entry for this room
-            _shared.ChatHistories.TryAdd(conn.ChatRoom, new ConcurrentQueue<string>());
-
-            // Send join message to room
-            await Clients.Group(conn.ChatRoom).SendAsync("JoinSpecificChatRoom", "admin", $"{conn.Username} has joined the chat room {conn.ChatRoom}");
-
-            // Send chat history to the user who just joined
-            if (_shared.ChatHistories.TryGetValue(conn.ChatRoom, out var chatHistory))
+            var messages = await _mongoDbService.GetMessagesAsync(userConnection.ChatRoom);
+            foreach (var message in messages)
             {
-                foreach (var message in chatHistory)
-                {
-                    await Clients.Client(Context.ConnectionId).SendAsync("ReceiveSpecificMessage", "admin", message);
-                }
+                await Clients.Caller.SendAsync("ReceiveSpecificMessage", message.UserName, message.Content, message.Timestamp);
             }
+            
+            await Clients.All.SendAsync("UpdateUserList", OnlineUsers.Values);
+        }
+
+        public async Task LeaveSpecificChatRoom(UserConnection userConnection)
+        {
+            await Groups.RemoveFromGroupAsync(Context.ConnectionId, userConnection.ChatRoom);
+            _mongoDbService.Connections.TryRemove(Context.ConnectionId, out _);
+            OnlineUsers.TryRemove(Context.ConnectionId, out _);
+            
+            await Clients.All.SendAsync("UpdateUserList", OnlineUsers.Values);
         }
 
         public async Task SendMessage(string message)
         {
-            if (_shared.Connections.TryGetValue(Context.ConnectionId, out UserConnection conn))
+            if (_mongoDbService.Connections.TryGetValue(Context.ConnectionId, out var userConnection))
             {
-                await Clients.Group(conn.ChatRoom).SendAsync("ReceiveSpecificMessage", conn.Username, message);
-
-                // Store message in chat history
-                if (_shared.ChatHistories.TryGetValue(conn.ChatRoom, out var chatHistory))
+                var timestamp = DateTime.Now;
+                var chatMessage = new Message
                 {
-                    chatHistory.Enqueue($"{conn.Username}: {message}");
-                }
+                    ChatRoom = userConnection.ChatRoom,
+                    UserName = userConnection.Username, // Doğru kullanıcı adını alıyoruz
+                    Content = message,
+                    Timestamp = timestamp
+                };
+
+                await _mongoDbService.AddMessageAsync(chatMessage);
+
+                await Clients.Group(userConnection.ChatRoom).SendAsync("ReceiveSpecificMessage", userConnection.Username, message, timestamp);
             }
         }
     }

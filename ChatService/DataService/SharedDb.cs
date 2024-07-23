@@ -1,21 +1,15 @@
 using System.Collections.Concurrent;
 using ChatService.Models;
+using System;
 
 namespace ChatService.DataService
 {
     public class SharedDb
     {
-        private readonly ConcurrentDictionary<string, UserConnection> _connections;
-        private readonly ConcurrentDictionary<string, ConcurrentQueue<string>> _chatHistories;
-
-        public SharedDb()
-        {
-            _connections = new ConcurrentDictionary<string, UserConnection>();
-            _chatHistories = new ConcurrentDictionary<string, ConcurrentQueue<string>>();
-        }
+        private readonly ConcurrentDictionary<string, UserConnection> _connections = new();
+        private readonly ConcurrentDictionary<string, ConcurrentQueue<(string User, string Message, DateTime Timestamp)>> _messages = new();
 
         public ConcurrentDictionary<string, UserConnection> Connections => _connections;
-
-        public ConcurrentDictionary<string, ConcurrentQueue<string>> ChatHistories => _chatHistories;
+        public ConcurrentDictionary<string, ConcurrentQueue<(string User, string Message, DateTime Timestamp)>> Messages => _messages;
     }
 }
