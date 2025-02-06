@@ -224,3 +224,246 @@ C:\Users\Mehmet Ali\Desktop\RealTimeChatApp\ChatService\bin\Debug\net8.0\ZstdSha
 C:\Users\Mehmet Ali\Desktop\RealTimeChatApp\ChatService\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
 C:\Users\Mehmet Ali\Desktop\RealTimeChatApp\ChatService\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
 C:\Users\Mehmet Ali\Desktop\RealTimeChatApp\ChatService\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Mehmet Ali\Desktop\lasts\RealTimeChatApp\ChatService\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Mehmet Ali\Desktop\lasts\RealTimeChatApp\ChatService\bin\Debug\net8.0\appsettings.json
+C:\Users\Mehmet Ali\Desktop\lasts\RealTimeChatApp\ChatService\bin\Debug\net8.0\ChatService.exe
+C:\Users\Mehmet Ali\Desktop\lasts\RealTimeChatApp\ChatService\bin\Debug\net8.0\ChatService.deps.json
+C:\Users\Mehmet Ali\Desktop\lasts\RealTimeChatApp\ChatService\bin\Debug\net8.0\ChatService.runtimeconfig.json
+C:\Users\Mehmet Ali\Desktop\lasts\RealTimeChatApp\ChatService\bin\Debug\net8.0\ChatService.dll
+C:\Users\Mehmet Ali\Desktop\lasts\RealTimeChatApp\ChatService\bin\Debug\net8.0\ChatService.pdb
+C:\Users\Mehmet Ali\Desktop\lasts\RealTimeChatApp\ChatService\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\Mehmet Ali\Desktop\lasts\RealTimeChatApp\ChatService\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\Mehmet Ali\Desktop\lasts\RealTimeChatApp\ChatService\bin\Debug\net8.0\DnsClient.dll
+C:\Users\Mehmet Ali\Desktop\lasts\RealTimeChatApp\ChatService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Mehmet Ali\Desktop\lasts\RealTimeChatApp\ChatService\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\Mehmet Ali\Desktop\lasts\RealTimeChatApp\ChatService\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\Mehmet Ali\Desktop\lasts\RealTimeChatApp\ChatService\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\Mehmet Ali\Desktop\lasts\RealTimeChatApp\ChatService\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\Mehmet Ali\Desktop\lasts\RealTimeChatApp\ChatService\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Mehmet Ali\Desktop\lasts\RealTimeChatApp\ChatService\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\Mehmet Ali\Desktop\lasts\RealTimeChatApp\ChatService\bin\Debug\net8.0\Snappier.dll
+C:\Users\Mehmet Ali\Desktop\lasts\RealTimeChatApp\ChatService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Mehmet Ali\Desktop\lasts\RealTimeChatApp\ChatService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Mehmet Ali\Desktop\lasts\RealTimeChatApp\ChatService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Mehmet Ali\Desktop\lasts\RealTimeChatApp\ChatService\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\Mehmet Ali\Desktop\lasts\RealTimeChatApp\ChatService\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Mehmet Ali\Desktop\lasts\RealTimeChatApp\ChatService\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Mehmet Ali\Desktop\lasts\RealTimeChatApp\ChatService\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Mehmet Ali\Desktop\lasts\RealTimeChatApp\ChatService\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Mehmet Ali\Desktop\lasts\RealTimeChatApp\ChatService\obj\Debug\net8.0\ChatService.csproj.AssemblyReference.cache
+C:\Users\Mehmet Ali\Desktop\lasts\RealTimeChatApp\ChatService\obj\Debug\net8.0\ChatService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet Ali\Desktop\lasts\RealTimeChatApp\ChatService\obj\Debug\net8.0\ChatService.AssemblyInfoInputs.cache
+C:\Users\Mehmet Ali\Desktop\lasts\RealTimeChatApp\ChatService\obj\Debug\net8.0\ChatService.AssemblyInfo.cs
+C:\Users\Mehmet Ali\Desktop\lasts\RealTimeChatApp\ChatService\obj\Debug\net8.0\ChatService.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Ali\Desktop\lasts\RealTimeChatApp\ChatService\obj\Debug\net8.0\ChatService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mehmet Ali\Desktop\lasts\RealTimeChatApp\ChatService\obj\Debug\net8.0\ChatService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mehmet Ali\Desktop\lasts\RealTimeChatApp\ChatService\obj\Debug\net8.0\ChatService.sourcelink.json
+C:\Users\Mehmet Ali\Desktop\lasts\RealTimeChatApp\ChatService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Mehmet Ali\Desktop\lasts\RealTimeChatApp\ChatService\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Mehmet Ali\Desktop\lasts\RealTimeChatApp\ChatService\obj\Debug\net8.0\staticwebassets\msbuild.ChatService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Mehmet Ali\Desktop\lasts\RealTimeChatApp\ChatService\obj\Debug\net8.0\staticwebassets\msbuild.build.ChatService.props
+C:\Users\Mehmet Ali\Desktop\lasts\RealTimeChatApp\ChatService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ChatService.props
+C:\Users\Mehmet Ali\Desktop\lasts\RealTimeChatApp\ChatService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ChatService.props
+C:\Users\Mehmet Ali\Desktop\lasts\RealTimeChatApp\ChatService\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Mehmet Ali\Desktop\lasts\RealTimeChatApp\ChatService\obj\Debug\net8.0\scopedcss\bundle\ChatService.styles.css
+C:\Users\Mehmet Ali\Desktop\lasts\RealTimeChatApp\ChatService\obj\Debug\net8.0\ChatServ.52F73ADC.Up2Date
+C:\Users\Mehmet Ali\Desktop\lasts\RealTimeChatApp\ChatService\obj\Debug\net8.0\ChatService.dll
+C:\Users\Mehmet Ali\Desktop\lasts\RealTimeChatApp\ChatService\obj\Debug\net8.0\refint\ChatService.dll
+C:\Users\Mehmet Ali\Desktop\lasts\RealTimeChatApp\ChatService\obj\Debug\net8.0\ChatService.pdb
+C:\Users\Mehmet Ali\Desktop\lasts\RealTimeChatApp\ChatService\obj\Debug\net8.0\ChatService.genruntimeconfig.cache
+C:\Users\Mehmet Ali\Desktop\lasts\RealTimeChatApp\ChatService\obj\Debug\net8.0\ref\ChatService.dll
+C:\Users\Mehmet Ali\Desktop\Tüm Staj\RealTimeChatApp\ChatService\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Mehmet Ali\Desktop\Tüm Staj\RealTimeChatApp\ChatService\bin\Debug\net8.0\appsettings.json
+C:\Users\Mehmet Ali\Desktop\Tüm Staj\RealTimeChatApp\ChatService\bin\Debug\net8.0\ChatService.exe
+C:\Users\Mehmet Ali\Desktop\Tüm Staj\RealTimeChatApp\ChatService\bin\Debug\net8.0\ChatService.deps.json
+C:\Users\Mehmet Ali\Desktop\Tüm Staj\RealTimeChatApp\ChatService\bin\Debug\net8.0\ChatService.runtimeconfig.json
+C:\Users\Mehmet Ali\Desktop\Tüm Staj\RealTimeChatApp\ChatService\bin\Debug\net8.0\ChatService.dll
+C:\Users\Mehmet Ali\Desktop\Tüm Staj\RealTimeChatApp\ChatService\bin\Debug\net8.0\ChatService.pdb
+C:\Users\Mehmet Ali\Desktop\Tüm Staj\RealTimeChatApp\ChatService\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\Mehmet Ali\Desktop\Tüm Staj\RealTimeChatApp\ChatService\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\Mehmet Ali\Desktop\Tüm Staj\RealTimeChatApp\ChatService\bin\Debug\net8.0\DnsClient.dll
+C:\Users\Mehmet Ali\Desktop\Tüm Staj\RealTimeChatApp\ChatService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Mehmet Ali\Desktop\Tüm Staj\RealTimeChatApp\ChatService\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\Mehmet Ali\Desktop\Tüm Staj\RealTimeChatApp\ChatService\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\Mehmet Ali\Desktop\Tüm Staj\RealTimeChatApp\ChatService\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\Mehmet Ali\Desktop\Tüm Staj\RealTimeChatApp\ChatService\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\Mehmet Ali\Desktop\Tüm Staj\RealTimeChatApp\ChatService\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Mehmet Ali\Desktop\Tüm Staj\RealTimeChatApp\ChatService\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\Mehmet Ali\Desktop\Tüm Staj\RealTimeChatApp\ChatService\bin\Debug\net8.0\Snappier.dll
+C:\Users\Mehmet Ali\Desktop\Tüm Staj\RealTimeChatApp\ChatService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Mehmet Ali\Desktop\Tüm Staj\RealTimeChatApp\ChatService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Mehmet Ali\Desktop\Tüm Staj\RealTimeChatApp\ChatService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Mehmet Ali\Desktop\Tüm Staj\RealTimeChatApp\ChatService\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\Mehmet Ali\Desktop\Tüm Staj\RealTimeChatApp\ChatService\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Mehmet Ali\Desktop\Tüm Staj\RealTimeChatApp\ChatService\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Mehmet Ali\Desktop\Tüm Staj\RealTimeChatApp\ChatService\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Mehmet Ali\Desktop\Tüm Staj\RealTimeChatApp\ChatService\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Mehmet Ali\Desktop\Tüm Staj\RealTimeChatApp\ChatService\obj\Debug\net8.0\ChatService.csproj.AssemblyReference.cache
+C:\Users\Mehmet Ali\Desktop\Tüm Staj\RealTimeChatApp\ChatService\obj\Debug\net8.0\ChatService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet Ali\Desktop\Tüm Staj\RealTimeChatApp\ChatService\obj\Debug\net8.0\ChatService.AssemblyInfoInputs.cache
+C:\Users\Mehmet Ali\Desktop\Tüm Staj\RealTimeChatApp\ChatService\obj\Debug\net8.0\ChatService.AssemblyInfo.cs
+C:\Users\Mehmet Ali\Desktop\Tüm Staj\RealTimeChatApp\ChatService\obj\Debug\net8.0\ChatService.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Ali\Desktop\Tüm Staj\RealTimeChatApp\ChatService\obj\Debug\net8.0\ChatService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mehmet Ali\Desktop\Tüm Staj\RealTimeChatApp\ChatService\obj\Debug\net8.0\ChatService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mehmet Ali\Desktop\Tüm Staj\RealTimeChatApp\ChatService\obj\Debug\net8.0\ChatService.sourcelink.json
+C:\Users\Mehmet Ali\Desktop\Tüm Staj\RealTimeChatApp\ChatService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Mehmet Ali\Desktop\Tüm Staj\RealTimeChatApp\ChatService\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Mehmet Ali\Desktop\Tüm Staj\RealTimeChatApp\ChatService\obj\Debug\net8.0\staticwebassets\msbuild.ChatService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Mehmet Ali\Desktop\Tüm Staj\RealTimeChatApp\ChatService\obj\Debug\net8.0\staticwebassets\msbuild.build.ChatService.props
+C:\Users\Mehmet Ali\Desktop\Tüm Staj\RealTimeChatApp\ChatService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ChatService.props
+C:\Users\Mehmet Ali\Desktop\Tüm Staj\RealTimeChatApp\ChatService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ChatService.props
+C:\Users\Mehmet Ali\Desktop\Tüm Staj\RealTimeChatApp\ChatService\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Mehmet Ali\Desktop\Tüm Staj\RealTimeChatApp\ChatService\obj\Debug\net8.0\scopedcss\bundle\ChatService.styles.css
+C:\Users\Mehmet Ali\Desktop\Tüm Staj\RealTimeChatApp\ChatService\obj\Debug\net8.0\ChatServ.52F73ADC.Up2Date
+C:\Users\Mehmet Ali\Desktop\Tüm Staj\RealTimeChatApp\ChatService\obj\Debug\net8.0\ChatService.dll
+C:\Users\Mehmet Ali\Desktop\Tüm Staj\RealTimeChatApp\ChatService\obj\Debug\net8.0\refint\ChatService.dll
+C:\Users\Mehmet Ali\Desktop\Tüm Staj\RealTimeChatApp\ChatService\obj\Debug\net8.0\ChatService.pdb
+C:\Users\Mehmet Ali\Desktop\Tüm Staj\RealTimeChatApp\ChatService\obj\Debug\net8.0\ChatService.genruntimeconfig.cache
+C:\Users\Mehmet Ali\Desktop\Tüm Staj\RealTimeChatApp\ChatService\obj\Debug\net8.0\ref\ChatService.dll
+C:\Tüm Staj\RealTimeChatApp\ChatService\bin\Debug\net8.0\appsettings.Development.json
+C:\Tüm Staj\RealTimeChatApp\ChatService\bin\Debug\net8.0\appsettings.json
+C:\Tüm Staj\RealTimeChatApp\ChatService\bin\Debug\net8.0\ChatService.exe
+C:\Tüm Staj\RealTimeChatApp\ChatService\bin\Debug\net8.0\ChatService.deps.json
+C:\Tüm Staj\RealTimeChatApp\ChatService\bin\Debug\net8.0\ChatService.runtimeconfig.json
+C:\Tüm Staj\RealTimeChatApp\ChatService\bin\Debug\net8.0\ChatService.dll
+C:\Tüm Staj\RealTimeChatApp\ChatService\bin\Debug\net8.0\ChatService.pdb
+C:\Tüm Staj\RealTimeChatApp\ChatService\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Tüm Staj\RealTimeChatApp\ChatService\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Tüm Staj\RealTimeChatApp\ChatService\bin\Debug\net8.0\DnsClient.dll
+C:\Tüm Staj\RealTimeChatApp\ChatService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Tüm Staj\RealTimeChatApp\ChatService\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Tüm Staj\RealTimeChatApp\ChatService\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Tüm Staj\RealTimeChatApp\ChatService\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Tüm Staj\RealTimeChatApp\ChatService\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Tüm Staj\RealTimeChatApp\ChatService\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Tüm Staj\RealTimeChatApp\ChatService\bin\Debug\net8.0\SharpCompress.dll
+C:\Tüm Staj\RealTimeChatApp\ChatService\bin\Debug\net8.0\Snappier.dll
+C:\Tüm Staj\RealTimeChatApp\ChatService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Tüm Staj\RealTimeChatApp\ChatService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Tüm Staj\RealTimeChatApp\ChatService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Tüm Staj\RealTimeChatApp\ChatService\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Tüm Staj\RealTimeChatApp\ChatService\bin\Debug\net8.0\ZstdSharp.dll
+C:\Tüm Staj\RealTimeChatApp\ChatService\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Tüm Staj\RealTimeChatApp\ChatService\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Tüm Staj\RealTimeChatApp\ChatService\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Tüm Staj\RealTimeChatApp\ChatService\obj\Debug\net8.0\ChatService.csproj.AssemblyReference.cache
+C:\Tüm Staj\RealTimeChatApp\ChatService\obj\Debug\net8.0\ChatService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tüm Staj\RealTimeChatApp\ChatService\obj\Debug\net8.0\ChatService.AssemblyInfoInputs.cache
+C:\Tüm Staj\RealTimeChatApp\ChatService\obj\Debug\net8.0\ChatService.AssemblyInfo.cs
+C:\Tüm Staj\RealTimeChatApp\ChatService\obj\Debug\net8.0\ChatService.csproj.CoreCompileInputs.cache
+C:\Tüm Staj\RealTimeChatApp\ChatService\obj\Debug\net8.0\ChatService.MvcApplicationPartsAssemblyInfo.cs
+C:\Tüm Staj\RealTimeChatApp\ChatService\obj\Debug\net8.0\ChatService.MvcApplicationPartsAssemblyInfo.cache
+C:\Tüm Staj\RealTimeChatApp\ChatService\obj\Debug\net8.0\ChatService.sourcelink.json
+C:\Tüm Staj\RealTimeChatApp\ChatService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Tüm Staj\RealTimeChatApp\ChatService\obj\Debug\net8.0\staticwebassets.development.json
+C:\Tüm Staj\RealTimeChatApp\ChatService\obj\Debug\net8.0\staticwebassets\msbuild.ChatService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Tüm Staj\RealTimeChatApp\ChatService\obj\Debug\net8.0\staticwebassets\msbuild.build.ChatService.props
+C:\Tüm Staj\RealTimeChatApp\ChatService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ChatService.props
+C:\Tüm Staj\RealTimeChatApp\ChatService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ChatService.props
+C:\Tüm Staj\RealTimeChatApp\ChatService\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Tüm Staj\RealTimeChatApp\ChatService\obj\Debug\net8.0\scopedcss\bundle\ChatService.styles.css
+C:\Tüm Staj\RealTimeChatApp\ChatService\obj\Debug\net8.0\ChatServ.52F73ADC.Up2Date
+C:\Tüm Staj\RealTimeChatApp\ChatService\obj\Debug\net8.0\ChatService.dll
+C:\Tüm Staj\RealTimeChatApp\ChatService\obj\Debug\net8.0\refint\ChatService.dll
+C:\Tüm Staj\RealTimeChatApp\ChatService\obj\Debug\net8.0\ChatService.pdb
+C:\Tüm Staj\RealTimeChatApp\ChatService\obj\Debug\net8.0\ChatService.genruntimeconfig.cache
+C:\Tüm Staj\RealTimeChatApp\ChatService\obj\Debug\net8.0\ref\ChatService.dll
+C:\Users\Mehmet Ali\Desktop\Tüm Staj1\RealTimeChatApp\ChatService\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Mehmet Ali\Desktop\Tüm Staj1\RealTimeChatApp\ChatService\bin\Debug\net8.0\appsettings.json
+C:\Users\Mehmet Ali\Desktop\Tüm Staj1\RealTimeChatApp\ChatService\bin\Debug\net8.0\ChatService.exe
+C:\Users\Mehmet Ali\Desktop\Tüm Staj1\RealTimeChatApp\ChatService\bin\Debug\net8.0\ChatService.deps.json
+C:\Users\Mehmet Ali\Desktop\Tüm Staj1\RealTimeChatApp\ChatService\bin\Debug\net8.0\ChatService.runtimeconfig.json
+C:\Users\Mehmet Ali\Desktop\Tüm Staj1\RealTimeChatApp\ChatService\bin\Debug\net8.0\ChatService.dll
+C:\Users\Mehmet Ali\Desktop\Tüm Staj1\RealTimeChatApp\ChatService\bin\Debug\net8.0\ChatService.pdb
+C:\Users\Mehmet Ali\Desktop\Tüm Staj1\RealTimeChatApp\ChatService\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\Mehmet Ali\Desktop\Tüm Staj1\RealTimeChatApp\ChatService\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\Mehmet Ali\Desktop\Tüm Staj1\RealTimeChatApp\ChatService\bin\Debug\net8.0\DnsClient.dll
+C:\Users\Mehmet Ali\Desktop\Tüm Staj1\RealTimeChatApp\ChatService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Mehmet Ali\Desktop\Tüm Staj1\RealTimeChatApp\ChatService\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\Mehmet Ali\Desktop\Tüm Staj1\RealTimeChatApp\ChatService\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\Mehmet Ali\Desktop\Tüm Staj1\RealTimeChatApp\ChatService\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\Mehmet Ali\Desktop\Tüm Staj1\RealTimeChatApp\ChatService\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\Mehmet Ali\Desktop\Tüm Staj1\RealTimeChatApp\ChatService\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Mehmet Ali\Desktop\Tüm Staj1\RealTimeChatApp\ChatService\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\Mehmet Ali\Desktop\Tüm Staj1\RealTimeChatApp\ChatService\bin\Debug\net8.0\Snappier.dll
+C:\Users\Mehmet Ali\Desktop\Tüm Staj1\RealTimeChatApp\ChatService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Mehmet Ali\Desktop\Tüm Staj1\RealTimeChatApp\ChatService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Mehmet Ali\Desktop\Tüm Staj1\RealTimeChatApp\ChatService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Mehmet Ali\Desktop\Tüm Staj1\RealTimeChatApp\ChatService\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\Mehmet Ali\Desktop\Tüm Staj1\RealTimeChatApp\ChatService\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Mehmet Ali\Desktop\Tüm Staj1\RealTimeChatApp\ChatService\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Mehmet Ali\Desktop\Tüm Staj1\RealTimeChatApp\ChatService\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Mehmet Ali\Desktop\Tüm Staj1\RealTimeChatApp\ChatService\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Mehmet Ali\Desktop\Tüm Staj1\RealTimeChatApp\ChatService\obj\Debug\net8.0\ChatService.csproj.AssemblyReference.cache
+C:\Users\Mehmet Ali\Desktop\Tüm Staj1\RealTimeChatApp\ChatService\obj\Debug\net8.0\ChatService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet Ali\Desktop\Tüm Staj1\RealTimeChatApp\ChatService\obj\Debug\net8.0\ChatService.AssemblyInfoInputs.cache
+C:\Users\Mehmet Ali\Desktop\Tüm Staj1\RealTimeChatApp\ChatService\obj\Debug\net8.0\ChatService.AssemblyInfo.cs
+C:\Users\Mehmet Ali\Desktop\Tüm Staj1\RealTimeChatApp\ChatService\obj\Debug\net8.0\ChatService.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Ali\Desktop\Tüm Staj1\RealTimeChatApp\ChatService\obj\Debug\net8.0\ChatService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mehmet Ali\Desktop\Tüm Staj1\RealTimeChatApp\ChatService\obj\Debug\net8.0\ChatService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mehmet Ali\Desktop\Tüm Staj1\RealTimeChatApp\ChatService\obj\Debug\net8.0\ChatService.sourcelink.json
+C:\Users\Mehmet Ali\Desktop\Tüm Staj1\RealTimeChatApp\ChatService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Mehmet Ali\Desktop\Tüm Staj1\RealTimeChatApp\ChatService\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Mehmet Ali\Desktop\Tüm Staj1\RealTimeChatApp\ChatService\obj\Debug\net8.0\staticwebassets\msbuild.ChatService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Mehmet Ali\Desktop\Tüm Staj1\RealTimeChatApp\ChatService\obj\Debug\net8.0\staticwebassets\msbuild.build.ChatService.props
+C:\Users\Mehmet Ali\Desktop\Tüm Staj1\RealTimeChatApp\ChatService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ChatService.props
+C:\Users\Mehmet Ali\Desktop\Tüm Staj1\RealTimeChatApp\ChatService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ChatService.props
+C:\Users\Mehmet Ali\Desktop\Tüm Staj1\RealTimeChatApp\ChatService\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Mehmet Ali\Desktop\Tüm Staj1\RealTimeChatApp\ChatService\obj\Debug\net8.0\scopedcss\bundle\ChatService.styles.css
+C:\Users\Mehmet Ali\Desktop\Tüm Staj1\RealTimeChatApp\ChatService\obj\Debug\net8.0\ChatServ.52F73ADC.Up2Date
+C:\Users\Mehmet Ali\Desktop\Tüm Staj1\RealTimeChatApp\ChatService\obj\Debug\net8.0\ChatService.dll
+C:\Users\Mehmet Ali\Desktop\Tüm Staj1\RealTimeChatApp\ChatService\obj\Debug\net8.0\refint\ChatService.dll
+C:\Users\Mehmet Ali\Desktop\Tüm Staj1\RealTimeChatApp\ChatService\obj\Debug\net8.0\ChatService.pdb
+C:\Users\Mehmet Ali\Desktop\Tüm Staj1\RealTimeChatApp\ChatService\obj\Debug\net8.0\ChatService.genruntimeconfig.cache
+C:\Users\Mehmet Ali\Desktop\Tüm Staj1\RealTimeChatApp\ChatService\obj\Debug\net8.0\ref\ChatService.dll
+C:\9 React End\RealTimeChatApp\ChatService\bin\Debug\net8.0\appsettings.Development.json
+C:\9 React End\RealTimeChatApp\ChatService\bin\Debug\net8.0\appsettings.json
+C:\9 React End\RealTimeChatApp\ChatService\bin\Debug\net8.0\ChatService.staticwebassets.endpoints.json
+C:\9 React End\RealTimeChatApp\ChatService\bin\Debug\net8.0\ChatService.exe
+C:\9 React End\RealTimeChatApp\ChatService\bin\Debug\net8.0\ChatService.deps.json
+C:\9 React End\RealTimeChatApp\ChatService\bin\Debug\net8.0\ChatService.runtimeconfig.json
+C:\9 React End\RealTimeChatApp\ChatService\bin\Debug\net8.0\ChatService.dll
+C:\9 React End\RealTimeChatApp\ChatService\bin\Debug\net8.0\ChatService.pdb
+C:\9 React End\RealTimeChatApp\ChatService\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\9 React End\RealTimeChatApp\ChatService\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\9 React End\RealTimeChatApp\ChatService\bin\Debug\net8.0\DnsClient.dll
+C:\9 React End\RealTimeChatApp\ChatService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\9 React End\RealTimeChatApp\ChatService\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\9 React End\RealTimeChatApp\ChatService\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\9 React End\RealTimeChatApp\ChatService\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\9 React End\RealTimeChatApp\ChatService\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\9 React End\RealTimeChatApp\ChatService\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\9 React End\RealTimeChatApp\ChatService\bin\Debug\net8.0\SharpCompress.dll
+C:\9 React End\RealTimeChatApp\ChatService\bin\Debug\net8.0\Snappier.dll
+C:\9 React End\RealTimeChatApp\ChatService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\9 React End\RealTimeChatApp\ChatService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\9 React End\RealTimeChatApp\ChatService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\9 React End\RealTimeChatApp\ChatService\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\9 React End\RealTimeChatApp\ChatService\bin\Debug\net8.0\ZstdSharp.dll
+C:\9 React End\RealTimeChatApp\ChatService\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\9 React End\RealTimeChatApp\ChatService\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\9 React End\RealTimeChatApp\ChatService\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\9 React End\RealTimeChatApp\ChatService\obj\Debug\net8.0\ChatService.csproj.AssemblyReference.cache
+C:\9 React End\RealTimeChatApp\ChatService\obj\Debug\net8.0\ChatService.GeneratedMSBuildEditorConfig.editorconfig
+C:\9 React End\RealTimeChatApp\ChatService\obj\Debug\net8.0\ChatService.AssemblyInfoInputs.cache
+C:\9 React End\RealTimeChatApp\ChatService\obj\Debug\net8.0\ChatService.AssemblyInfo.cs
+C:\9 React End\RealTimeChatApp\ChatService\obj\Debug\net8.0\ChatService.csproj.CoreCompileInputs.cache
+C:\9 React End\RealTimeChatApp\ChatService\obj\Debug\net8.0\ChatService.MvcApplicationPartsAssemblyInfo.cs
+C:\9 React End\RealTimeChatApp\ChatService\obj\Debug\net8.0\ChatService.MvcApplicationPartsAssemblyInfo.cache
+C:\9 React End\RealTimeChatApp\ChatService\obj\Debug\net8.0\ChatService.sourcelink.json
+C:\9 React End\RealTimeChatApp\ChatService\obj\Debug\net8.0\scopedcss\bundle\ChatService.styles.css
+C:\9 React End\RealTimeChatApp\ChatService\obj\Debug\net8.0\staticwebassets.build.json
+C:\9 React End\RealTimeChatApp\ChatService\obj\Debug\net8.0\staticwebassets.development.json
+C:\9 React End\RealTimeChatApp\ChatService\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\9 React End\RealTimeChatApp\ChatService\obj\Debug\net8.0\staticwebassets\msbuild.ChatService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\9 React End\RealTimeChatApp\ChatService\obj\Debug\net8.0\staticwebassets\msbuild.ChatService.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\9 React End\RealTimeChatApp\ChatService\obj\Debug\net8.0\staticwebassets\msbuild.build.ChatService.props
+C:\9 React End\RealTimeChatApp\ChatService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ChatService.props
+C:\9 React End\RealTimeChatApp\ChatService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ChatService.props
+C:\9 React End\RealTimeChatApp\ChatService\obj\Debug\net8.0\staticwebassets.pack.json
+C:\9 React End\RealTimeChatApp\ChatService\obj\Debug\net8.0\ChatServ.52F73ADC.Up2Date
+C:\9 React End\RealTimeChatApp\ChatService\obj\Debug\net8.0\ChatService.dll
+C:\9 React End\RealTimeChatApp\ChatService\obj\Debug\net8.0\refint\ChatService.dll
+C:\9 React End\RealTimeChatApp\ChatService\obj\Debug\net8.0\ChatService.pdb
+C:\9 React End\RealTimeChatApp\ChatService\obj\Debug\net8.0\ChatService.genruntimeconfig.cache
+C:\9 React End\RealTimeChatApp\ChatService\obj\Debug\net8.0\ref\ChatService.dll

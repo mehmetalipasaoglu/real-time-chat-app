@@ -4,17 +4,20 @@ using ChatService.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+// Veritabanı ayarlarını yapılandırma
 builder.Services.Configure<DatabaseSettings>(
     builder.Configuration.GetSection("DatabaseSettings"));
 
+// MongoDbService sınıfını singleton olarak ekleme
 builder.Services.AddSingleton<MongoDbService>();
 
+// SignalR hizmetlerini ekleme (Gerçek zamanlı iletişim)
 builder.Services.AddSignalR();
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
+builder.Services.AddSwaggerGen(); // API dökümantasyonu için Swagger ekleme
 
+// CORS ayarları
 builder.Services.AddCors(opt => {
     opt.AddPolicy("reactApp", policy => {
         policy.WithOrigins("http://localhost:5173")
@@ -24,11 +27,12 @@ builder.Services.AddCors(opt => {
     });
 });
 
-builder.Services.AddSingleton<SharedDb>();
+// SharedDb hizmetini singleton olarak ekleme
+// builder.Services.AddSingleton<SharedDb>();
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
+// Geliştirme ortamında Swagger'ı etkinleştirme
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
@@ -36,12 +40,10 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+app.UseCors("reactApp"); // CORS politikasını uygulama
+app.UseAuthorization(); // Yetkilendirme işlemleri
 
-app.UseCors("reactApp");
+app.MapControllers(); // Kontrolcüleri haritalama
+app.MapHub<ChatHub>("/chat"); // ChatHub'ı haritalama
 
-app.UseAuthorization();
-
-app.MapControllers();
-app.MapHub<ChatHub>("/chat");
-
-app.Run();
+app.Run(); // Uygulamayı çalıştırma
