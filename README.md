@@ -125,33 +125,6 @@ Herhangi bir hata veya geliştirme öneriniz varsa, lütfen bir [GitHub Issue](h
 Bu proje, gerçek zamanlı uygulamalar geliştirme konusunda öğrenme amaçlı oluşturulmuştur. Katkılarınız ve geri bildirimleriniz benim için çok değerlidir! 🚀
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## 📄 Lisans
-MIT Lisansı altında dağıtılmaktadır. Daha fazla bilgi için `LICENSE` dosyasına bakabilirsiniz.
-
 ---
 ✨ **Projeye katkılarınızı bekliyoruz!** 🚀
 
